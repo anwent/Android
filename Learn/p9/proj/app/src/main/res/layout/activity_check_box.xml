@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CheckBoxActivity">
+
+    <TextView
+        android:id="@+id/tv_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="技能:"
+        android:textSize="40dp"
+
+        />
+
+    <CheckBox
+        android:id="@+id/cb_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Android"
+        android:textColor="#ff0033"
+        android:layout_below="@id/tv_1"
+        android:layout_marginTop="20dp"
+        />
+
+    <CheckBox
+        android:id="@+id/cb_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="iOS"
+        android:textColor="#ff0033"
+        android:layout_below="@id/cb_1"
+        android:layout_marginTop="20dp"
+        />
+
+    <CheckBox
+        android:id="@+id/cb_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HTML"
+        android:textColor="#ff0033"
+        android:layout_below="@id/cb_2"
+        android:layout_marginTop="20dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@id/cb_3"
+        android:layout_marginTop="44dp"
+        android:layout_marginLeft="15dp"
+        >
+
+        <TextView
+            android:id="@+id/ll_tv_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="兴趣爱好"
+
+            />
+
+        <CheckBox
+            android:id="@+id/ll_cb_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="wow"
+            android:layout_marginTop="15dp"
+            android:button="@drawable/bg_checkbox"
+            />
+
+        <CheckBox
+            android:id="@+id/ll_cb_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="game"
+            android:layout_marginTop="5dp"
+            android:button="@drawable/bg_checkbox"
+            />
+
+
+
+    </LinearLayout>>
+</RelativeLayout>

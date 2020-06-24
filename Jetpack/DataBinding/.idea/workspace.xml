@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59090ccf-aaa2-4c71-af50-db002388e8c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/proj/app/src/main/java/com/example/databindingtest/MyViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveData/proj/app/src/main/java/com/example/livedatatest/MainViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveData/proj/app/src/main/res/drawable/ic_thumb_down_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveData/proj/app/src/main/res/drawable/ic_thumb_up_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewModel/proj/app/src/main/java/com/example/viewmodel/MyViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn/p14/proj2/app/src/main/java/com/example/recyclerviewsection/MainRecyclerViewAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn/p14/proj2/app/src/main/res/layout/layout_main_recyclerview_cell.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn/p14/proj2/app/src/main/res/layout/layout_main_recyclerview_section.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Source/proj/app/src/main/java/com/example/sourceboard/Adapter/SourceAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Source/proj/app/src/main/java/com/example/sourceboard/Fragment/SourceFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Source/proj/app/src/main/java/com/example/sourceboard/Model/SourceModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Source/proj/app/src/main/java/com/example/sourceboard/ViewHolder/SourceMainViewHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Source/proj/app/src/main/java/com/example/sourceboard/ViewModel/SourceBoardViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Source/proj/app/src/main/res/layout/layout_fragment_source.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Source/proj/app/src/main/res/layout/layout_source_recyclerview_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learn/p14/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Learn/p14/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1dkU57zLYCvIE1r3lNkMHrHQIOL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59090ccf-aaa2-4c71-af50-db002388e8c2" name="Default Changelist" comment="" />
+      <created>1592968398374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592968398374</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
